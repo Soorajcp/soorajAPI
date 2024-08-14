@@ -1,0 +1,17 @@
+.d-block{
+    width: 350px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+.product-image{
+    height: 350px;
+    object-fit: contain;
+}
+.card-title{
+    height: 50px;
+    overflow: hidden;
+}
+.product-des{
+    height: 50px;
+    overflow: hidden;
+}
